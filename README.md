@@ -1,4 +1,4 @@
-![Touches](Touches.tiff)
+![Touches](Touches.png)
 
 ```java
 GraphicsRect frame = mainScreen.getApplicationFrame();
